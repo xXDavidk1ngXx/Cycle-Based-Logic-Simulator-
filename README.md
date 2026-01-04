@@ -217,7 +217,6 @@ This project demonstrates:
 ✅ **Software Engineering**: Testing, documentation, build systems  
 ✅ **Domain Knowledge**: Digital logic, timing, hardware description languages  
 
-**Perfect for**: ASIC Design, FPGA Engineering, EDA Software Development positions at companies like NVIDIA, AMD, Intel, AWS Annapurna Labs.
 
 ## 🛣️ Roadmap
 
@@ -239,11 +238,7 @@ This project demonstrates:
 
 ## 📖 Documentation
 
-Detailed documentation available in `/docs`:
-- [Architecture Guide](docs/architecture.md) - System design and component interaction
-- [Netlist Specification](docs/netlist_spec.md) - Complete format reference
-- [API Reference](docs/api.md) - Component interface documentation
-- [Algorithm Deep-Dive](docs/algorithms.md) - Simulation engine internals
+TODO
 
 ## 🤝 Contributing
 
@@ -263,7 +258,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## 👨‍💻 Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [Email](mailto:your.email@example.com)
 
 *Developed as a portfolio project demonstrating software engineering skills for chip design CAD and digital verification roles.*
 
@@ -278,8 +272,6 @@ Inspired by industry-standard EDA tools:
 Special thanks to the digital design community for resources on logic simulation algorithms.
 
 ## 📞 Contact
-
-Questions or feedback? Open an issue or reach out directly!
 
 ---
 
